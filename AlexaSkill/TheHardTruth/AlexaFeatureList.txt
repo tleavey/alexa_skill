@@ -1,0 +1,22 @@
+Alexa Skill: The Truth | Feature List
+
+Tell the truth:
+
+-What is the meaning of life?
+-Is he a great guy? / Is he legit?
+-Is she cool? Is she a good person?
+-About me.
+-Am I cool? / Am I a good person?
+-What is today? / What's the date?
+-What happens after you die?
+-What happens after I die?
+-Does god exist?
+-How can I get ahead in life?
+-Why am I single?
+-Are you single?
+-Why doesn't anyone love me? / Why am I not loved?
+-Why can't I get a girlfriend?
+-Why can't I get a boyfriend?
+-What is love?
+-Why do I exist?
+-Do aliens exist?
